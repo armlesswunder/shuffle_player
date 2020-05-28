@@ -1,0 +1,9 @@
+C:\Users\000ab\source\repos\Shuffle Player\bin\Release\Shuffle Player.exe.config
+C:\Users\000ab\source\repos\Shuffle Player\bin\Release\Shuffle Player.exe
+C:\Users\000ab\source\repos\Shuffle Player\bin\Release\Shuffle Player.pdb
+C:\Users\000ab\source\repos\Shuffle Player\obj\Release\Shuffle Player.csprojAssemblyReference.cache
+C:\Users\000ab\source\repos\Shuffle Player\obj\Release\Shuffle_Player.Form1.resources
+C:\Users\000ab\source\repos\Shuffle Player\obj\Release\Shuffle_Player.Properties.Resources.resources
+C:\Users\000ab\source\repos\Shuffle Player\obj\Release\Shuffle Player.csproj.GenerateResource.cache
+C:\Users\000ab\source\repos\Shuffle Player\obj\Release\Shuffle Player.exe
+C:\Users\000ab\source\repos\Shuffle Player\obj\Release\Shuffle Player.pdb
